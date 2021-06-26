@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "af97a87dc043226d5d5738ed253e8dde09e4ecf8",
+    "author": "Seers <see044@csiro.au>",
+    "time": "2021-06-26 10:58:46",
+    "files": 2,
+    "merge": false,
+    "message": "Use backticks to explicitly refer to 'start date' and 'end date' columns. #30\n"
+  },
+  "remote": "https://github.com/ropensci/clifro",
+  "pkg": "clifro"
+}
