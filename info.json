@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "46c72d399ee3d6069cfffa87a4452f85794bdef9",
+    "author": "Seers, Blake (Environment, Aspendale) <Blake.Seers@csiro.au>",
+    "time": "2023-03-09 06:42:07",
+    "files": 3,
+    "merge": false,
+    "message": "Update documentation for the calm_wind argument in the windrose function. Addresses #35.\n"
+  },
+  "repo": "https://github.com/ropensci/clifro",
+  "pkg": "clifro"
+}

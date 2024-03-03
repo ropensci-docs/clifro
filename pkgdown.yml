@@ -1,0 +1,13 @@
+pandoc: 2.16.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  cfStation: cfStation.html
+  choose-datatype: choose-datatype.html
+  choose-station: choose-station.html
+  clifro: clifro.html
+last_built: 2024-03-03T06:09Z
+urls:
+  reference: https://docs.ropensci.org/clifro/reference
+  article: https://docs.ropensci.org/clifro/articles
+
